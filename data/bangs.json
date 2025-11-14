@@ -80343,14 +80343,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Twitch TV",
-    "d": "www.twitch.tv",
-    "t": "twich",
-    "u": "https://www.twitch.tv/search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "Twig",
     "d": "twig.symfony.com",
     "t": "twig",
